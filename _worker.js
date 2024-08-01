@@ -5,7 +5,7 @@ let proxyIP = '';
 // The user name and password do not contain special characters
 // Setting the address will ignore proxyIP
 // Example:  user:pass@host:port  or  host:port
-let socks5Address = 'user-0bace9b83dc0:psw-1a44faaf-ae8a-4861-a6ec-c3d6029602e8@85.194.244.91:41501';
+let socks5Address = '';
 
 let addresses = [
 	//当sub为空时启用本地优选域名/优选IP，若不带端口号 TLS默认端口为443，#号后为备注别名
